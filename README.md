@@ -4,6 +4,8 @@ Local Perplexica on Windows, combines a few projects with one script to insatll 
 Not thoroughly tested! The services and searches run.
 I have yet to test the ollama components as I primarily use llama.cpp by cli
 
+My next immediate move will be to make sure this spews out coherent and very verbose logs, I am side eyeing the npm repos SOMETHING FIERCE right now. 
+
 To run it, right-click your newly saved install.ps1 file and choose Run with PowerShell
 
 This is a script that wraps together, loads, installs, and runs a local perplexica server, searxng without docker, and readies ollama for an entirely personal search agent on your device.
